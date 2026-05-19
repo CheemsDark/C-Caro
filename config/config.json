@@ -1,0 +1,5 @@
+{
+  "time_limit": 1.5,
+  "beam_width_root": 15,
+  "beam_width_inner": 10
+}
